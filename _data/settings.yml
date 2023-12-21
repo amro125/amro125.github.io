@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Akio
+title: Amro
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Creative Portfolio Theme for Jekyll.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -49,8 +49,8 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Hey everyone, I’m Jason Hill
-  hero__description: Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
+  hero__title: Hey everyone, I’m Amit Rogel
+  hero__description: Hi, I'm Amit – Graphic Designer. I am a fourth year PhD student at Georgia tech in the department for music technology. My research focuses on using music to express a robot's movement in order to improve human robotic collaboration. I also work on robotic musicians such as a marimba playing robot, guitar playing robot, and interactive art exhibit that plays music on itself.
   hero__image: "/images/01-1.jpg"
 
 
@@ -111,55 +111,55 @@ testimonial__title: Clients
 testimonial__description:
 
 testimonial__items:
-  - name: "Hanna Septimus"
+  - name: "Ashvala Vinay"
     image: "/images/client-1.jpg"
     designation: "Product Designer"
     link: "https://twitter.com/"
     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
-  - name: "Carla Rosser"
+  - name: "Ashy Vinay"
     image: "/images/client-2.jpg"
     designation: "Statistician"
     link: "https://facebook.com/"
     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
-  - name: "Maria Curtis"
+  - name: "Ashley Vinay"
     image: "/images/client-3.jpg"
     designation: "Team Lead"
     link: "https://twitter.com/"
     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
-  - name: "Carter Bergson"
+  - name: "Ashval Vinay"
     image: "/images/client-4.jpg"
     designation: "CEO, Founder"
     link: "https://facebook.com/"
     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
-  - name: "Jordyn Franci"
+  - name: "Ashvi Vinay"
     image: "/images/client-5.jpg"
     designation: "Personal Trainer"
     link: "https://twitter.com/"
     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
-  - name: "Mira Carder"
+  - name: "Asha Vinay"
     image: "/images/client-6.jpg"
     designation: "Data Scientist"
     link: "https://facebook.com/"
     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
-  - name: "Madelyn Herwitz"
+  - name: "Ashe Vinay"
     image: "/images/client-7.jpg"
     designation: "Frontend Engineer"
     link: "https://twitter.com/"
     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
-  - name: "Anika Schleifer"
+  - name: "Ashvili Vinay"
     image: "/images/client-8.jpg"
     designation: "Fitness Director"
     link: "https://facebook.com/"
     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
-  - name: "Wilson Dorwart"
+  - name: "Jason Smith"
     image: "/images/client-9.jpg"
     designation: "Financial Manager"
     link: "https://twitter.com/"
