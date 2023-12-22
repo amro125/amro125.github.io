@@ -51,7 +51,7 @@ hero:
   enable: true
   hero__title: Hey everyone, I’m Amit Rogel
   hero__description: Hi, I'm Amit – PhD in Robotics and Music. I am a fourth year PhD student at Georgia Tech in the department for Music Technology. My research focuses on using music to express a robot's movement in order to improve human robotic collaboration. I also work on robotic musicians such as a marimba playing robot, guitar playing robot, and interactive art exhibit that plays music on itself.
-  hero__image: "/images/ProfilePic.jpg"
+  hero__image: "/images/medusa3.png"
 
 
 #-------------------------------
