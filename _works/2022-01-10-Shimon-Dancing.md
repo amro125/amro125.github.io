@@ -1,19 +1,15 @@
 ---
-title: Shimnon Dancing
-description: An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books.
-category: Print Design
-date: 2022-01-10 08:01:35 +0300
-client: Music Fest
-role: Graphic Designer
+title: Shimon Dancing
+description: Marimba playing robot, Shimon, uses gestures and visual queues to improve collaboration with musicians.
 image: '/images/ShimonCox.jpg'
-image_caption: 'Photo by [Freepik](https://www.freepik.com/)'
+image_caption: 'Shimon performing at Megaron theater in Athens, Greece.'
 ---
 
 Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. Spiral-bound books are bound by spirals made of metal or plastic. Examples of spiral-bound books include teachers' manuals and puzzle books (crosswords, sudoku).
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/work-1-2.jpg" loading="lazy" alt="Project">
+    <img src="/images/meAndShimon.png" loading="lazy" alt="Project">
     <img src="/images/work-1-3.jpg" loading="lazy" alt="Project">
   </div>
   <em>Photo by <a href="https://www.freepik.com/" target="_blank">Freepik</a></em>
