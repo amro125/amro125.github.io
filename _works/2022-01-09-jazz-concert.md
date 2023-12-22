@@ -17,7 +17,7 @@ Hardcover books have a stiff binding. Paperback books have cheaper, flexible cov
   <em>Photo by <a href="https://www.freepik.com/" target="_blank">Freepik</a></em>
 </div>
 
-Full project website <a href="here" target="wwwe.medus.ai"> There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).
+Full project website <a href="https://www.medus.ai/" target="_blank">here</a>. There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).
 
 > The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
 
