@@ -1,5 +1,5 @@
 ---
-title: Music love fest
+title: Shimnon Dancing
 description: An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books.
 category: Print Design
 date: 2022-01-10 08:01:35 +0300
