@@ -1,12 +1,10 @@
 ---
-title: Jazz concert
-description: An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books.
-category: Book Cover
-date: 2022-01-09 08:01:35 +0300
-client: Jazz International
-role: Designer
-image: '/images/work-2.jpg'
-image_caption: 'Photo by [Freepik](https://www.freepik.com/)'
+title: MedusAI
+description: Recently built interactive exhibit using strings, drums, and robotic arms to create a robotic musician that uses vision and audio input to modify lights, robot movemnents, and string playing.
+Construction: Face welded with Steel for unique resonant effects, Robot preconstructed
+role: Construction, Robot programming, Melody improv Generation, System architecture creation.
+image: '/images/MedusaTrilith.jpg'
+image_caption: 'Medusa Performance at Trilith Soundstage'
 ---
 
 Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. Spiral-bound books are bound by spirals made of metal or plastic. Examples of spiral-bound books include teachers' manuals and puzzle books (crosswords, sudoku).
@@ -19,7 +17,7 @@ Hardcover books have a stiff binding. Paperback books have cheaper, flexible cov
   <em>Photo by <a href="https://www.freepik.com/" target="_blank">Freepik</a></em>
 </div>
 
-There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).
+Full project website <a href="here" target="wwwe.medus.ai"> There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).
 
 > The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
 
