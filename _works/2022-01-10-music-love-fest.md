@@ -5,7 +5,7 @@ category: Print Design
 date: 2022-01-10 08:01:35 +0300
 client: Music Fest
 role: Graphic Designer
-image: '/images/work-1.jpg'
+image: '/images/ShimonCox.jpg'
 image_caption: 'Photo by [Freepik](https://www.freepik.com/)'
 ---
 
