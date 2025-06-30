@@ -18,12 +18,11 @@ menu__settings:
       url: '/work/'
     - title: 'Writing'
       url: '/blog/'
-    - title: 'Pages'
-      submenu:
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+    - title: 'Contact Me!'
+      url: '/contact/'
+      # submenu:
+      # - url: '/elements/'
+      #   title: 'Elements'
 
 
 #-------------------------------
@@ -169,7 +168,7 @@ testimonial__items:
 #-------------------------------
 # Blog Section
 blog:
-  enable: true
+  enable: False
 
 blog__settings:
   blog__title: Writing
@@ -178,7 +177,7 @@ blog__settings:
 
 #-------------------------------
 # Footer Settings
-footer__background__image: "/images/bg.jpg"
+footer__background__image: "/images/AmitShimonMexico.jpg"
 
 #-------------------------------
 # Contact Settings
