@@ -25,8 +25,8 @@ The left hand design has the sliders for each presser offset from the fret,so au
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/finger_explode.jpg" loading="lazy" alt="Work">
-    <img src="/images/pick_explode.jpg" loading="lazy" alt="Work">
+    <img src="/images/finger_explode.png" loading="lazy" alt="Work">
+    <img src="/images/pick_explode.png" loading="lazy" alt="Work">
   </div>
   <em>individual design of string manipulation </a></em>
 </div>
