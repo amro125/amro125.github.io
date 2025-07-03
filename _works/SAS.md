@@ -1,30 +1,54 @@
 ---
 title: Safe And Sound
 description: NSF funded project using music to improve safety and fluency in human robot interaction
-category: Print Design
-date: 2022-01-05 08:01:35 +0300
-role: Graphic Designer
-image: '/images/work-6.jpg'
-image_caption: 'Photo by [Freepik](https://www.freepik.com/)'
+category: Studies, Human Robot Interaction
+# date: 2022-01-05 08:01:35 +0300
+role: Project Lead, Programmer, Studies
+image: '/images/SASRobot3.png'
+image_caption: ''
+# featured: true
 ---
 
-Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. Spiral-bound books are bound by spirals made of metal or plastic. Examples of spiral-bound books include teachers' manuals and puzzle books (crosswords, sudoku).
+Safe and Sound is a project I helped write an NSF funded grant for! In this project, we are using music to improve safety and fluency. Currently, modern robot sonification consists of repetitive beeps (think of a truck backing up) that can become annoying to listen to for  longer than a few seconds. Hospitals have similar issues where they have many beeps that demand attention all the time (even when they don't need it) which can cause healthcare workers to grow anxious or even tone out sounds (called alarm fatigue). 
+
+Conversely, people can listen to music for hours and extract a lot of information without growing bored or becoming desensitized. If you look at the lofi girl youtube channel, people listen to it for hours on end. Our goal is generate songs that can modify specific musical features ( such as tension and rhythmic stability) to communicate the danger and urgency level of a robot, without constantly demanding our attention.
+
+ This does mean that the sound will become urgent when the robot will crash, but if the robot is moving heavy payloads, its good to know the danger but no one needs to shout it at me. In other words,  I can listen to my lofi robot music: 
+
+ > If I wanna know the status of my robot I pay attention to the music a little more, but if I wanna focus on my work, the robots music will not distract me. If the robot requires my focus,  it will  change the rhythm in a way to catch my attention. 
+ 
+ We first gathered data of music clips to understand the relationship between higher level musical features and safety and urgency. Based on this we came up with a framework to generate safe audio
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/work-2-2.jpg" loading="lazy" alt="Work">
-    <img src="/images/work-2-3.jpg" loading="lazy" alt="Work">
+    <img src="/images/framework.png" loading="lazy" alt="Work">
   </div>
-  <em>Photo by <a href="https://www.freepik.com/" target="_blank">Freepik</a></em>
+  <em>Framework to sonify robots with high level music features</em>
 </div>
 
+ To improve fluency and coordination between users and robot, I'm leveraging predictable elements of music for  humans and robots to sync their task to (for example, the pop goes the weasel melody, or if you are a Bostonian everyone knows when to shout ""BUM BUM BUM" after "sweeeeeet caaaaaroliiiine"). We can predict when the last BUM of Sweet Caroline is and then hand an object to the robot. Lastly, Since I love hardware, Im also working on a cool new way to present this audio to users, so stay tuned for that!
 
-There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/FluencySystemOverview.png" loading="lazy" alt="Work">
+  </div>
+  <em>Overview on fluency to improve synchronization</em>
+</div>
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+We are also working on some cool hardware applications to embed the audio of this project!
 
-Publishers may produce low-cost, pre-publication copies known as galleys or 'bound proofs' for promotional purposes, such as generating reviews in advance of publication. Galleys are usually made as cheaply as possible, since they are not intended for sale.
+## Relevant Publications
+<em><a href="https://ieeexplore.ieee.org/abstract/document/10973803?casa_token=6em6fV0E-poAAAAA:ezkieyYKESSMa2Rtl8YB4n1bjrqJiTZdP4Ypcul9xhRuBvH320iUlTiZxP6t9RgPGof1UEmM" target="_blank">What Sounds Dangerous? Establishing Correlations Of Musical Features and Perceived Safety in HRI</a></em>
+<br>Amit Rogel, Jack Haley, Richard Savery, Gil Weinberg
+<br><strong> 2025 HRI Conference</strong>
 
-Dummy books (or faux books) are books that are designed to imitate a real book by appearance to deceive people, some books may be whole with empty pages, others may be hollow or in other cases, there may be a whole panel carved with spines which are then painted to look like books,  titles of some books may also be fictitious.
+<em><a href="https://ieeexplore.ieee.org/abstract/document/10973803?casa_token=6em6fV0E-poAAAAA:ezkieyYKESSMa2Rtl8YB4n1bjrqJiTZdP4Ypcul9xhRuBvH320iUlTiZxP6t9RgPGof1UEmM" target="_blank">Do Re Mi Fa So Pass the tool? Using Melodic Prediction to Improve Human-Robot Fluency </a></em>
+<br>Amit Rogel, Jack Haley, Gil Weinberg
+<br><strong> 2025 RoMan Conference</strong>
 
-The advent of paperback books in the 20th century led to an explosion of popular publishing. Paperback books made owning books affordable for many people. Paperback books often included works from genres that had previously been published mostly in pulp magazines. As a result of the low cost of such books and the spread of bookstores filled with them (in addition to the creation of a smaller market of extremely cheap used paperbacks) owning a private library ceased to be a status symbol for the rich.
+<!-- ## Other Media
+<em><a href="https://ieeexplore.ieee.org/document/10491398" target="_blank">IEEE Spectrum</a></em>
+<br> Published 2024
+<br><strong>IEEE highlight</strong> -->
+
+

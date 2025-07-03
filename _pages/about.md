@@ -1,38 +1,69 @@
 ---
 layout: page
 title: About
-description: I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
+description: I love robots, art, building and will always do my best to combine them! I'm also passionate about designing and research related to any other aspect of my life! 
 permalink: /about/
-image: '/images/01-2.jpg'
-image_caption: 'Photo by [Bruce Dixon](https://unsplash.com/photos/3M9WJQVHzog) on [Unsplash](https://unsplash.com/)'
+# image: '/images/AmitShimonMexico.jpg'
+# image_caption: 'Photo by [Bruce Dixon](https://unsplash.com/photos/3M9WJQVHzog) on [Unsplash](https://unsplash.com/)'
 ---
 
-Hymnals are books with collections of musical hymns that can typically be found in churches. Prayerbooks or missals are books that contain written prayers and are commonly carried by monks, nuns, and other devoted followers or clergy. Lap books are a learning tool created by students.
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/AmitShimonMexico.jpg" loading="lazy" style="width:70%; display:block; margin-left:auto; margin-right:auto;">
+  </div>
+  <em>Me playing with Shimon in Mexico</em>
+</div>
 
-There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).
+I am a fourth-year PhD student in the Robotic Musicianship Lab at Georgia Tech's Center for Music Technology, where I conduct research under the advisement of Dr. Gil Weinberg. My musical foundation began with classical trombone training starting in fourth grade, continuing through various orchestras.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/101.jpg" loading="lazy">
-    <img src="/images/102.jpg" loading="lazy">
+    <img src="/images/ProfilePic.jpg" loading="lazy" style="width:70%; display:block; margin-left:auto; margin-right:auto;">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  <em>Me and a very early guitarbot</em>
 </div>
 
-Dummy books (or faux books) are books that are designed to imitate a real book by appearance to deceive people, some books may be whole with empty pages, others may be hollow or in other cases, there may be a whole panel carved with spines which are then painted to look like books, titles of some books may also be fictitious.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
-
-The advent of paperback books in the 20th century led to an explosion of popular publishing. Paperback books made owning books affordable for many people. Paperback books often included works from genres that had previously been published mostly in pulp magazines. As a result of the low cost of such books and the spread of bookstores filled with them (in addition to the creation of a smaller market of extremely cheap used paperbacks) owning a private library ceased to be a status symbol for the rich.
+Since probably second grade, I have always loved building things. Both my parents were programmers, so my act of rebellion was being a hardware person. Growing up I participated in Lego robotics competitions, and in high school I moved to bigger "metal" robot competitions. High school was where I learned the technical details of robotics, which pushed my excitement for specifically robots to my core.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/103.jpg" loading="lazy">
+    <img src="/images/Amitshimon2.jpg" loading="lazy">
   </div>
-  <em>Photo by <a href="https://unsplash.com/photos/TMpQ5R9mbOc" target="_blank">Caroline Hernandez</a></em>
+  <em>Me and Shimon</em>
 </div>
 
-This form of the book chain has hardly changed since the eighteenth century, and has not always been this way. Thus, the author has asserted gradually with time, and the copyright dates only from the nineteenth century. For many centuries, especially before the invention of printing, each freely copied out books that passed through his hands, adding if necessary his own comments. Similarly, bookseller and publisher jobs have emerged with the invention of printing, which made the book an industrial product, requiring structures of production and marketing.
 
-Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.
+In eighth grade I moved to a music school that introduced me to the technical and scientific aspects of music, including music perception. There was a lot more engineering to music than I thought. This exposure sparked my interest in combining music with engineering and technology, and I have since diversified my musical skills, learning electronic music production, bass guitar, and jazz trombone to enable improvisation with robotic musicians.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/teamlabs1.jpg" loading="lazy">
+    <img src="/images/teamlabs2.jpg" loading="lazy">
+  </div>
+  <em></em>
+</div>
+
+I earned my undergraduate degree in Mechanical Engineering with a Music Technology minor from Rochester Institute of Technology. During my undergraduate studies, I worked on a project that developed robots to assist sailors with disabilities in steering boats. I also worked with the campus Tech Crew TC4L!!!!!, where I designed and implemented sound and lighting systems for various campus events.
+
+I also ende dup working at Yamaha in Japan, where I worked on loudspeaker design. I used fineCone FEA to create current speaker simulations, and then used the tool to design a new speaker driver for yamaha. I found out about Gil's lab sophomore year of college and from that moment knew I had to go there.
+
+My doctoral research focuses on using music to improve safety and fluency in human-robot collaboration. Unlike traditional robotic sonification that relies on repetitive, attention-demanding beeps, my approach generates continuous musical content that can communicate danger and urgency levels without causing listener fatigue. My methodology combines machine learning techniques with traditional music theory principles to create musical systems that facilitate human-robot synchronization.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/hike1.jpg" loading="lazy" style="width:60%; display:block; margin-left:auto; margin-right:auto;">
+  </div>
+  <em></em>
+</div>
+
+As a mechanical engineer in the Robotic Musicianship Lab, I have made many design and manufacture contributions to multiple robotic systems including work on Medusai, the lab's guitar robot, and Shimon, the lab's marimba-playing robot. My work on Shimi focuses on developing accessibility applications for deaf and hard-of-hearing users, transforming the robot into a tool for experiencing music through visual and haptic feedback.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/hike2.jpg" loading="lazy" style="width:60%; display:block; margin-left:auto; margin-right:auto;">
+  </div>
+  <em></em>
+</div>
+
+Outside of the lab, I love going on bike rides, hiking, sailing, and playing with my niece and nephew! I also am  practicing new music with friends and designing toyes on my 3D printer!

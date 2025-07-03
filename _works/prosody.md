@@ -24,9 +24,6 @@ We ended up using this framework/ gestures to express different personalities wi
 <br>Richard Savery, Amit Rogel, Gil Weinberg
 <br><strong>2021 RoMan Conference</strong>
 
-<em><a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003320470-13/robotic-dancing-emotional-gestures-prosody-framework-gestures-three-robotic-platforms-richard-savery-amit-rogel-gil-weinberg" target="_blank">Robotic Dancing, Emotional Gestures and Prosody: A Framework for Gestures of Three Robotic Platforms</a></em>
-<br>Amit Rogel, Richard Savery, Gil Weinberg
-<br><strong>Sound and Robotics Book Chapter</strong>
 
 <em><a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003320470-10/happy-leveraging-neuroticism-extraversion-music-driven-emotional-interaction-robotics-richard-savery-amit-rogel-lisa-zahray-gil-weinberg" target="_blank">How Happy Should I be? Leveraging Neuroticism and Extraversion for Music-Driven Emotional Interaction in Robotics</a></em>
 <br>Richard Savery, Amit Rogel, Lisa Zahray, Gil Weinberg
