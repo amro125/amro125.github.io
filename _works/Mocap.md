@@ -3,7 +3,7 @@ title: RoboGroove
 description: Robotic arm dancing based on human motion capture data
 category: Robotic Dancer
 role: Programmer, Project
-image: '/images/mocapgood.gif'
+image: '/images/beccagif.gif'
 image_caption: 'Expressive Robot Guitar'
 featured: true
 ---
@@ -23,7 +23,7 @@ Different movements were applied for different cases with dancers to create uniq
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/mocgif3.gif" loading="lazy" alt="Work">
+    <img src="/images/mocagif3s.gif" loading="lazy" alt="Work">
   </div>
   <em> </em>
 </div>

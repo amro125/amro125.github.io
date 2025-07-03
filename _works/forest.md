@@ -3,7 +3,7 @@ title: Forest
 description: A forest of twelve robot arms (uFactory xArm) use dancer-inspired movement and music input to dance with humans.
 category: Robotic Dancer
 role: Robot Programming, Stand/set design, Project manager 
-image: '/images/beccaRobot.jpg'
+image: '/images/beccaRobot.jpeg'
 image_caption: 'Dancer dancing with a Forest arm'
 featured: true
 ---
@@ -22,7 +22,7 @@ Below is a nice
     <img src="/images/forest3.jpg" loading="lazy" alt="Project">
     <img src="/images/forest4.jpg" loading="lazy" alt="Project">
     <img src="/images/forest5.jpg" loading="lazy" alt="Project">
-    <img src="/images/forest6.jpg" loading="lazy" alt="Project">
+    <img src="/images/forest6.jpeg" loading="lazy" alt="Project">
     <img src="/images/forest13.jpg" loading="lazy" alt="Project">
     <img src="/images/musicians.jpg" loading="lazy" alt="Project">
     <img src="/images/forest9.jpg" loading="lazy" alt="Project">
