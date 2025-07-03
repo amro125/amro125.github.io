@@ -10,9 +10,11 @@ featured: true
 
 During my masters thesis, I worked on degree of freedom reduction to have robot arms respond gesturally to human dances. We drew inspiration from disneys pillars of animation to make our robots move lifelike. So we used the mocap to create "follow through."
 
+<!-- <img src="_site/images/mocapgood.gif" alt="Motion capture demo"> -->
+
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/mocGif2.gif" loading="lazy" alt="Work">
+    <img src="/images/mocGif2.gif" loading="lazy" alt="Motion capture demo">
   </div>
   <em> </em>
 </div>
