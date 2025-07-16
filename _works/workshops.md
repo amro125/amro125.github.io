@@ -12,12 +12,14 @@ Over our time working on Forest and Medusai, my advisor and I hosted sets of wor
 
 <div class="gallery-box">
   <div class="gallery">
+  <img src="/images/beccaandrobot.png" loading="lazy" alt="Work">
     <img src="/images/workshop1.png" loading="lazy" alt="Work">
     <img src="/images/workshop2.jpg" loading="lazy" alt="Work">
     <img src="/images/workshop3.jpg" loading="lazy" alt="Work">
     <img src="/images/workshop4.jpg" loading="lazy" alt="Work">
     <img src="/images/workshop5.jpg" loading="lazy" alt="Work">
     <img src="/images/workshopc.jpg" loading="lazy" alt="Work">
+    
   </div>
   <em>photos of different interactions</a></em>
 </div>
