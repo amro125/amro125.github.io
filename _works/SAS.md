@@ -26,6 +26,9 @@ Conversely, people can listen to music for hours and extract a lot of informatio
   <em>Framework to sonify robots with high level music features</em>
 </div>
 
+Using this framework, we con 
+
+
  To improve fluency and coordination between users and robot, I'm leveraging predictable elements of music for  humans and robots to sync their task to (for example, the pop goes the weasel melody, or if you are a Bostonian everyone knows when to shout ""BUM BUM BUM" after "sweeeeeet caaaaaroliiiine"). We can predict when the last BUM of Sweet Caroline is and then hand an object to the robot. Lastly, Since I love hardware, Im also working on a cool new way to present this audio to users, so stay tuned for that!
 
 <div class="gallery-box">
