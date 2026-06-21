@@ -1,5 +1,6 @@
 ---
 title: Shimon Dances
+order: 7
 description: Marimba playing robot, Shimon, uses gestures and visual queues to improve collaboration with musicians.
 category: Robotic Musician
 image: '/images/ShimonCox.jpg'

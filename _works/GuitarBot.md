@@ -1,5 +1,6 @@
 ---
 title: Expressive Robotic Guitar
+order: 5
 description: An acoustic guitar-playing robot that mimics huuman motion to play expressive 
 category: Robotic Musician
 # date: 2022-01-08 08:01:35 +0300

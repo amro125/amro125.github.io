@@ -1,7 +1,8 @@
 ---
 title: MedusAI
+order: 1
 description: Recently built interactive exhibit using strings, drums, and robotic arms to create a robotic musician that uses vision and audio input to modify lights, robot movemnents, and string playing.
-category: Robotic Musician, Robotic Dancer
+category: Interactive Installation,  Robotic Musician, Robotic Dancer
 Construction: Face welded with Steel for unique resonant effects, Robot preconstructed
 role: Construction, Robot programming, Design, Project Manager
 image: '/images/medushope2.avif'

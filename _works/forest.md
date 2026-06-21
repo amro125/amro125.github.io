@@ -1,5 +1,6 @@
 ---
 title: Forest
+order: 3
 description: A forest of twelve robot arms (uFactory xArm) use dancer-inspired movement and music input to dance with humans.
 category: Robotic Dancer
 role: Robot Programming, Stand/set design, Project manager 
@@ -16,7 +17,7 @@ The first big project that I worked on for my masters! We integrated the gesture
 
 We spent 4 weeks working with dancers from Kennessaw State University to figure out ways to choreograph and perform with robots as collaborators, rather than tools. 
 
-Below is a nice
+Below is a set of photos from the concert
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/forest3.jpg" loading="lazy" alt="Project">

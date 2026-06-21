@@ -1,5 +1,6 @@
 ---
 title: Shimi
+order: 8
 description: Multimodel Robot Used to help people who are deaf and hard of hearing experience music
 category: Assistive robot
 # date: 2022-01-06 08:01:35 +0300

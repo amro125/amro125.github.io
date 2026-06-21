@@ -1,5 +1,6 @@
 ---
 title: RoboGroove
+order: 4
 description: Robotic arm dancing based on human motion capture data
 category: Robotic Dancer
 role: Programmer, Project

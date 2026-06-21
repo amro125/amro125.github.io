@@ -1,5 +1,6 @@
 ---
 title: Robotic Dancer Workshops
+order: 12
 description: A set of robot workshops I hosted with my advisor to create performances with dancers and robots.
 category: Artistic Workshops, Robot Dancing
 # date: 2022-01-05 08:01:35 +0300

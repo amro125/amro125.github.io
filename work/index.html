@@ -17,7 +17,8 @@ description: Some highlights of projects I've worked on leading up to and in my 
 
 <div class="work-page container animate">
   <div class="row">
-    {% for work in site.works reversed %}
+    {% assign ordered_works = site.works | sort: "order" %}
+    {% for work in ordered_works %}
       <article class="work col col-4 col-d-6 col-t-12">
         <div class="work__content">
           <a href="{{ work.url }}" class="work__image">

@@ -1,5 +1,6 @@
 ---
 title: Shimon Sings Covers
+order: 11
 description: Shimon Generating different vocal and marimba parts to cover songs
 category: Robotic Musicians
 # date: 2022-01-07 08:01:35 +0300

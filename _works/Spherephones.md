@@ -1,5 +1,6 @@
 ---
 title: Spherephones
+order: 6
 description: 3D Spatial audio headphones that branched from NSF funded project
 category: Product, Spatial Audio
 # date: 2022-01-05 08:01:35 +0300

@@ -1,5 +1,6 @@
 ---
 title: Safe And Sound
+order: 10
 description: NSF funded project using music to improve safety and fluency in human robot interaction
 category: Studies, Human Robot Interaction
 # date: 2022-01-05 08:01:35 +0300
@@ -15,7 +16,7 @@ Conversely, people can listen to music for hours and extract a lot of informatio
 
  This does mean that the sound will become urgent when the robot will crash, but if the robot is moving heavy payloads, its good to know the danger but no one needs to shout it at me. In other words,  I can listen to my lofi robot music: 
 
- > If I wanna know the status of my robot I pay attention to the music a little more, but if I wanna focus on my work, the robots music will not distract me. If the robot requires my focus,  it will  change the rhythm in a way to catch my attention. 
+ > If I wanna know the status of my robot, I pay attention to the music a little more, but if I wanna focus on my work, the robots music will not distract me. If the robot requires my focus,  it will  change the rhythm in a way to catch my attention. 
  
  We first gathered data of music clips to understand the relationship between higher level musical features and safety and urgency. Based on this we came up with a framework to generate safe audio
 
