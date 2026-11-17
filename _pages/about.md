@@ -14,7 +14,7 @@ permalink: /about/
   <em>Me playing with Shimon in Mexico</em>
 </div>
 
-I am a sixth-year PhD candidate in the Robotic Musicianship Lab at Georgia Tech's Center for Music Technology, where I conduct research under the advisement of Dr. Gil Weinberg. My musical foundation began with classical trombone training starting in fourth grade, continuing through various orchestras.
+I successfully defended my dissertation and completed all PhD requirements at Georgia Tech in July 2026. I conducted my doctoral research in the Robotic Musicianship Lab at Georgia Tech's Center for Music Technology under the advisement of Dr. Gil Weinberg. My musical foundation began with classical trombone training starting in fourth grade, continuing through various orchestras.
 
 <div class="gallery-box">
   <div class="gallery">
